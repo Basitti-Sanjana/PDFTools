@@ -29,9 +29,9 @@ Save the Output: Your combined PDF will be ready in seconds!
 
 📸 Screenshot
 
+![image alt](https://github.com/Basitti-Sanjana/PDFTools/blob/9e5fe3b99845e5f0ef3db14d4b18cd9c5c74edf4/PDFHomePage.png)
 
 
-Add a screenshot showing the interface or process. Replace the placeholder link above with your image URL.
 
 
  
